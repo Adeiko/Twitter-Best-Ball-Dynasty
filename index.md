@@ -1,4 +1,4 @@
-# Twitter Dynasty Best Ball League Constitution #
+# League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
